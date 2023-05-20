@@ -53,14 +53,14 @@ After verification, the employee's services will be displayed:
 PLEAASE CHOOSE THE PREFERRED ALGROTHIM TO SORT THE NAMES
 1- MERGE SORT ALGROTHIM   2- INSERT SORT ALGROTHIM     3-EXIT
 ```
- `4- VIEW AND SORT CARS` To display and sort the cars make, there are also several options for sorting either MERGE SORT ALGROTHIM or INSERT SORT ALGROTHIM
+ `4- VIEW AND SORT CARS` To display and sort the cars make, there are also several options for sorting either MERGE SORT ALGORITHM or INSERT SORT AALGORITHM
 
 ```bash
 PLEAASE CHOOSE THE PREFERRED ALGROTHIM TO SORT THE CAR MAKE
 1- MERGE SORT ALGROTHIM   2- INSERT SORT ALGROTHIM     3-EXIT
 ```
 
-`5-VIEW POTENTIAL PROFITS` To display the expected profit of the company, the profit was calculated using the linear Sum Recursion algrothim, there are several options for viewing either the daily, monthly or annual profit:
+`5-VIEW POTENTIAL PROFITS` To display the expected profit of the company, the profit was calculated using the LINEAR SUM RECURSION ALGORITHM, there are several options for viewing either the daily, monthly or annual profit:
 
 ```bash
 WHAT DO YOU WANNA VIEW...     1-DAILY PROFIT      2-MONTHLY PROFIT      3-ANNUAL PROFIT
@@ -118,5 +118,10 @@ RAGHAD
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
+- USING LINKED LIST IN A JAVA PROGRAM.
+- USING STACK IN A JAVA PROGRAM.
+- USING ARRAY LIST IN A JAVA PROGRAM.
+- WRITING MERGE SORT ALGORITHM AND USING IT ON SOME DATA STRUCTURES.
+- WRITTING INSERT SORT ALGORITHM AND USING IT ON SOME DATA STRUCTURES.
+- WRITTING A RECURSION ALGORITHM AND USING IT ON DATA STRUCTURES.
+- CALCULATING THE TIME COMPLEXITY FOR THE ALGORITHMS.
