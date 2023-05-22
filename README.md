@@ -25,7 +25,10 @@ To run this project, you will need to add the following requiremets on your devi
 
 `The project classes + the main class`
 
-  `dataemfile.txt` 
+ `dataemfile.txt` 
+  
+  
+  
 ## HOW TO RUN THE PROGRAM?
 
 When you run the program, it will display two options for logging in, either you are an employee or a customer :
@@ -34,6 +37,9 @@ When you run the program, it will display two options for logging in, either you
   ------------------------RENTAL CAR APP---------------------------
 1-LOG IN AS AN EMPLOYEE      2-REGISTER AS A CUSTOMER      3-EXIT
 ```
+
+
+
 
 When logging in as an employee, the program must verify the user name and password to allow access.
 
@@ -65,6 +71,11 @@ PLEAASE CHOOSE THE PREFERRED ALGROTHIM TO SORT THE CAR MAKE
 ```bash
 WHAT DO YOU WANNA VIEW...     1-DAILY PROFIT      2-MONTHLY PROFIT      3-ANNUAL PROFIT
 ```
+
+
+
+
+
 When logging in as a customer, the customer's services will be displayed as follows:
 
 ```bash
@@ -88,14 +99,29 @@ CAR PRICE PER DAY : 150.0
 CAR STATUS : Available
 -----------------------------------------
 ```
+`2-VIEW CUSTOMERS` To display all the company's customers with their information.
 
-`2-RENT A CAR ` To rent the desired car, you must fill in the data required for the rental:
+EXAMPLE:
+```bash
+Name: Sara Mohammed, License Number: 1234567, Address: Square Street, Riyadh, Saudi Arabia, Phone Number: 0555555555
+Total Rental Price: 0.0
+Name: Abdullah Mohammed, License Number: 2345678, Address: King Abdulaziz Road, Jeddah, Saudi Arabia, Phone Number: 0505555555
+Total Rental Price: 0.0
+Name: Mariam Ali, License Number: 3456789, Address: Specialized Street, Riyadh, Saudi Arabia, Phone Number: 0555555555
+Total Rental Price: 0.0
+```
+
+`3-SORT CUSTOMERS BY NAME` Is to sort the company's customers by their names.
+
+`4-RENT A CAR ` To rent the desired car, you must fill in the data required for the rental:
 
 - CAR REGISTRATION NUMBER
 - RENTAL DATE
 - RETURN DATE
 - CARD NUMBER
 - CARDHOLDER NAME
+
+`5-VIEW MY RENTED CARS` Is view the cars that is rented by the user.
 
 EXAMPLE:
 ```bash
@@ -129,8 +155,8 @@ RAGHAD
 
 ## Authors
 
-- FARAH
-- RAHAF
-- RAGHAD 
-- ASAYEL
-- AMAL
+- FARAH AL Ansari 443007633
+- RAHAF AL Mehdar 443004399
+- RAGHAD AL Maliki 442010549
+- ASAYEL Qaid 443011953
+- AMAL Abid 443013150
